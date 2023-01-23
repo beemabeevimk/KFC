@@ -1,0 +1,300 @@
+.location-banner-container{
+    width: 100%;
+    height: 43px;
+    background-color: #fff;
+}
+body{
+    margin: 0;
+    font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+}
+
+
+.loc-img{
+    padding-left: 376px;
+    padding-top: 17px;
+}
+.location-symbol{
+    width: 400px;
+    height: 43px;
+    float: left;
+}
+.loc-text{
+    float: left;
+    padding-top: 2px;
+}
+.button{
+    font-size: 35px;
+    float: left;
+    height: 52px;
+    width: 192px;
+    padding-left: 22px;
+}
+.button-loc{
+    border-radius: 16px;
+
+    background-color: black;
+    color: #fff;
+    height: 46px;
+    padding-top: 14px;
+    width: 191px;
+}
+.kfc-container{
+    width: 202px;
+    height: 107px;
+    float: left;
+}
+.loc-kfc-img{
+    padding-left: 122px;
+    padding-top: 34px;
+}
+
+.line{
+    width: 100%;
+}
+.options ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    font-weight: calc(100);
+    width: 151px;
+    float: left;
+    padding-top: 20px;
+}
+.right-container{
+    float: left;
+    width: 870px;
+    height: 81px;
+}
+
+.sign-in-pic{
+    float: left;
+    float: left;
+    width: 561px;
+    height: 79px;
+}
+.loc-sign{
+    width: 24px;
+    padding-top: 32px;
+    padding-left: 535px;
+}
+.sign-in-text{
+    float: left;
+    float: left;
+    width: 63px;
+    height: 70px;
+}
+.sign-in-font{
+    padding-top: 24px;
+    padding-left: 15px;
+    font-weight: bold;
+    font-size: 13px;
+}
+.rupees-text{
+    float: left;
+    width: 79px;
+    height: 59px;
+}
+.rupees-font{
+    padding-top: 20px;
+    padding-left: 60px;
+    font-weight: bold;
+}
+.cart-img{
+float: left;
+}
+.cart-loc{
+    width: 48px;
+    padding-top: 8px;
+}
+.sub-black-banner{
+    display: flex;
+    width: 100%;
+    height: 68px;
+    margin-top: 102px;
+    background-color: rgb(43, 42, 42);
+}
+.black-text{
+    width: 100%;
+    height: 69px;
+    margin-left: 350px;
+}
+.black-text-font{
+    color: #fff;
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: 16px;
+}
+button{
+    padding: 20px 50px;
+    border: none;
+    background-color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+    color: #fff;
+    border-radius: 31px;
+    cursor: pointer;
+}
+.buttn-loc{
+    width: 174px;
+    height: 42px;
+    padding-top: 14px;
+}
+.button-font{
+    background-color: red   ;
+    background-color: red;
+    width: 167px;
+    height: 44px;
+    padding-top: 15px;
+    margin-top: 13px;
+}
+.start-button{
+    width: 174px;
+    padding-right: 339px;
+}
+.red-stripes{
+    width: 40px;
+    height: 20px;
+    background: repeating-linear-gradient(90deg,#e4002b,#e4002b 8px,#fff 0,#fff 16px);
+}
+.welcome-text-cont{
+    width: 30%;
+    margin-left: 13%;
+   
+}
+.welcome-text-font{
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+}
+.browse-text{
+    width: 30%;
+    margin-left: 13%;
+    height: 62px;
+}
+.browse-text-font{
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+}
+.line-in{
+    border-top: 2px solid #e3e3e3;
+    flex: 1 1;
+    margin-top: 120px;
+    margin-right: 9%;
+    width: 559px;
+}
+.line-padding{
+    padding-left: 387px;
+    margin-top: -143px;
+}
+.img-size{
+    width: 77%;
+    margin-left: 147px;
+}
+.img-size-2{
+    width: 77%;
+    margin-left: 147px;
+}
+.red-offer-size{
+    width: 77%;
+    margin-left: 148px;
+}
+.offer-deals-text{
+    width: 100%;
+    height: 38rem;
+    background-color:#212529;
+}
+.deal-text-font{
+    padding-left: 169px;
+    color: #fff;
+    padding-top: 77px;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.footer{
+    width: 100%;
+    height: 225px;
+    background-color: #212529;
+    display: flex;
+}
+.cont-1{
+    width: 109px;
+    height: 148px;
+    padding-left: 66px;
+}
+.kfc-foot-img-size{
+    width: 79px;
+}
+.kfc-cont-2 ul{
+    width: 215px;
+    padding-left: 167px;
+    height: 110px;
+    padding-top: 0px;
+    list-style-type: none;
+    font-weight: calc(100);
+    color: #fff;
+    margin-top: -123px;
+    margin-left: 5px;
+}
+.kfc-cont-3 ul{
+    width: 215px;
+    padding-left: 312px;
+    height: 110px;
+    padding-top: 0px;
+    list-style-type: none;
+    font-weight: calc(100);
+    color: #fff;
+    margin-top: -124px;
+    margin-left: 5px;
+}
+.kfc-cont-4 ul{
+    float: left;
+    position: absolute;
+    padding-left: 413px;
+    height: 110px;
+    padding-top: 0px;
+    list-style-type: none;
+    font-weight: calc(100);
+    color: #fff;
+    margin-top: -125px;
+    margin-left: 22px;
+}
+.footer-padding{
+    width: 100%;
+}
+.kfc-cont-5 ul{
+    float: left;
+    position: absolute;
+    padding-left: 577px;
+    height: 110px;
+    padding-top: 0px;
+    list-style-type: none;
+    font-weight: calc(100);
+    color: #fff;
+    margin-top: -125px;
+    margin-left: 22px;
+}
+.find-img-size{
+
+}
+.kfc-cont-6{
+    margin-top: -156px;
+    width: 160px;
+    margin-left: 739px;
+}
+.find-img-size{
+    width: 154px;
+    background-color: #212529;
+}
+.footer-img-size{
+    width: 249px;
+    padding-left: 911px;
+    margin-top: -28px;
+}
+.
